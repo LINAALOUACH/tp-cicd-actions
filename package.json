@@ -1,0 +1,26 @@
+{
+  "name": "tp-cicd-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest --coverage",
+  "lint": "eslint src/"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LINAALOUACH/tp-cicd-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LINAALOUACH/tp-cicd-actions/issues"
+  },
+  "homepage": "https://github.com/LINAALOUACH/tp-cicd-actions#readme",
+  "devDependencies": {
+    "eslint": "^10.2.0",
+    "jest": "^30.3.0"
+  }
+}
